@@ -1,6 +1,4 @@
 # git-practice
 change このリポジトリはGit動画講座用です．
-new-featureブランチで変更
-no-fast-forwardで変更
-conflictで変更（main）
-conflict-remote上で更新(conflict発生)
+ローカルリポで変更
+rebase-practiceブランチで更新(rebase用)
